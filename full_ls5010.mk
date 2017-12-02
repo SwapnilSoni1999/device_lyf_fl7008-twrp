@@ -18,11 +18,11 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
 # Inherit from device.mk
-$(call inherit-product, device/lyf/fl7008/device.mk)
+$(call inherit-product, device/lyf/ls5010/device.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := fl7008
-PRODUCT_NAME := fl7008
+PRODUCT_DEVICE := ls5010
+PRODUCT_NAME := ls5010
 PRODUCT_BRAND := LYF
-PRODUCT_MODEL := FL7008
+PRODUCT_MODEL := LS5010
 PRODUCT_MANUFACTURER := LYF

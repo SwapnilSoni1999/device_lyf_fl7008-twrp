@@ -1,4 +1,4 @@
-# TWRP device tree for LYF FL7008
+# TWRP device tree for LYF LS5010
 
 To build recovery:
 ------------------

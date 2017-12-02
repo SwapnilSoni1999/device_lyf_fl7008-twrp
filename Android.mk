@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-ifneq ($(filter fl7008,$(TARGET_DEVICE)),)
+ifneq ($(filter ls5010,$(TARGET_DEVICE)),)
 
 LOCAL_PATH := $(call my-dir)
 
