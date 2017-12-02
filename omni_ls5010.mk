@@ -17,6 +17,6 @@
 # Inherit from our custom product configuration
 $(call inherit-product, vendor/omni/config/common.mk)
 
-$(call inherit-product, device/lyf/ls5010/full_fl7008.mk)
+$(call inherit-product, device/lyf/ls5010/full_ls5010.mk)
 
 PRODUCT_NAME := omni_ls5010
